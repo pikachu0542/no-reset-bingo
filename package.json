@@ -3,13 +3,26 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "minecraft",
+    "seedrun",
+    "bingo",
+    "express",
+    "mcsr",
+    "couriway",
+    "no reset speedrun",
+    "node",
+    "javascript"
+  ],
+  "author": "Pikachu0542",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "dotenv": "^16.5.0",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "path": "^0.12.7"
   }
 }
