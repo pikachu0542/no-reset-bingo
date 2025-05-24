@@ -1,0 +1,658 @@
+[
+    {
+        "name": "0.5 or worse angle change",
+        "desc": "When triangulating the stronghold, the angle difference between the two eyes is 0.5 or less"
+    },
+    {
+        "name": "2+ flint in inv",
+        "desc": "Has 2 or more flint in his inventory at the same time"
+    },
+    {
+        "name": "3+ eye breaks",
+        "desc": "Finds an end portal that generates with 3 or more eyes filled in"
+    },
+    {
+        "name": "30+ obby",
+        "desc": "Has 30 or more obsidian in his inventory at any given time"
+    },
+    {
+        "name": "4 or less explosives in end",
+        "desc": "Has less than 4 total beds and respawn anchors when entering the end"
+    },
+    {
+        "name": "5+ minute nether enter",
+        "desc": "Enteres the nether for the first time at 5 minutes or later of IGT"
+    },
+    {
+        "name": "5+ minute stronghold nav",
+        "desc": "Spends 5 minutes or more in the stronghold looking for the portal room"
+    },
+    {
+        "name": "Apple",
+        "desc": "Obtains an apple"
+    },
+    {
+        "name": "Basalt delta",
+        "desc": "Finds a basalt delta biome"
+    },
+    {
+        "name": "Bedrock in overworld or nether",
+        "desc": "Sees bedrock in either the overworld or the nether"
+    },
+    {
+        "name": "Blacksmith",
+        "desc": "Finds a blacksmith in a village"
+    },
+    {
+        "name": "Blaze bed/tnt",
+        "desc": "Use bed(s) or tnt to clear space at a blaze spawner"
+    },
+    {
+        "name": "Blind into cave",
+        "desc": "Spawns in a cave in the overworld from blind travel"
+    },
+    {
+        "name": "Boat broken",
+        "desc": "Boat breaks into sticks and planks"
+    },
+    {
+        "name": "Boat clutch",
+        "desc": "Successfully uses a bot to avoid fall damage"
+    },
+    {
+        "name": "Bread",
+        "desc": "Obtains bread"
+    },
+    {
+        "name": "Buried treasure",
+        "desc": "Finds a buried treasure"
+    },
+    {
+        "name": "Button",
+        "desc": "Obtains a button"
+    },
+    {
+        "name": "Cave lava enter",
+        "desc": "Enters the nether using a lava pool in a cave"
+    },
+    {
+        "name": "Chicken jockey",
+        "desc": "Finds a chicken jockey"
+    },
+    {
+        "name": "Cod strats",
+        "desc": "Trades for a cod bucket in a village"
+    },
+    {
+        "name": "Completed ruined portal",
+        "desc": "Completes a ruined portal"
+    },
+    {
+        "name": "Coral",
+        "desc": "Sees coral"
+    },
+    {
+        "name": "Couri scream",
+        "desc": "Couri screams"
+    },
+    {
+        "name": "Couri sneeze",
+        "desc": "Couri sneezes"
+    },
+    {
+        "name": "Creeper explodes",
+        "desc": "Creeper explodes"
+    },
+    {
+        "name": "Creeper in stronghold",
+        "desc": "Finds a creeper in the stronghold"
+    },
+    {
+        "name": "Dark oak forest",
+        "desc": "Finds a dark oak forest biome"
+    },
+    {
+        "name": "Desert temple",
+        "desc": "Finds a desert temple"
+    },
+    {
+        "name": "Diamond",
+        "desc": "Obtain a diamond"
+    },
+    {
+        "name": "Diamond pickaxe",
+        "desc": "Obtain a diamond pickaxe"
+    },
+    {
+        "name": "Diamond sword",
+        "desc": "Obtain a diamond sword"
+    },
+    {
+        "name": "Dig down into lava",
+        "desc": "Encounter lava while digging straight down"
+    },
+    {
+        "name": "Digging for over a minute",
+        "desc": "Spend 1 minute or longer digging underground"
+    },
+    {
+        "name": "Doesn't use sword in inv",
+        "desc": "Has a sword in inventory but doesnt use it"
+    },
+    {
+        "name": "Dolphin dies",
+        "desc": "See a dolphin die"
+    },
+    {
+        "name": "Double bad no triple stables",
+        "desc": "Finds a stables bastion with no good gaps and no triple chest ramparts"
+    },
+    {
+        "name": "Double blaze spawner",
+        "desc": "Foretress has two blaze spawners close enough to each other to play both at the same time"
+    },
+    {
+        "name": "Dungeon",
+        "desc": "Find a dungeon"
+    },
+    {
+        "name": "Eats raw meat",
+        "desc": "Eats a piece of raw meat"
+    },
+    {
+        "name": "Educated travel",
+        "desc": "Uses one eye of ender to determine the direction of the nearest stronghold without estimating the distance"
+    },
+    {
+        "name": "Emerald ore",
+        "desc": "Finds emerald ore"
+    },
+    {
+        "name": "Enchanted golden apple",
+        "desc": "Obtains an enchanted golden apple"
+    },
+    {
+        "name": "Enderman aggroed",
+        "desc": "Cause an enderman to start attacking you"
+    },
+    {
+        "name": "Endermite",
+        "desc": "Endermite spawns after throwing an ender pearl"
+    },
+    {
+        "name": "Endermite chases crawling couri",
+        "desc": "Endermite spawns and starts chasing Couri down a crawl mining tunnel"
+    },
+    {
+        "name": "Enters end without arrows",
+        "desc": "Enters the end without any arrows or enough materials to craft them"
+    },
+    {
+        "name": "Enters pr through way other than front entrance",
+        "desc": "Enters portal room from any method other than the front entrance (side entrance, mining, etc)"
+    },
+    {
+        "name": "Failed zero",
+        "desc": "Attempts to do a zero cycle but the dragon doesn't die"
+    },
+    {
+        "name": "Fails boat clutch",
+        "desc": "Attempts to use a boat to prevent fall damage but fails"
+    },
+    {
+        "name": "Fastion",
+        "desc": "Find a bastion and a foretress very close to each other"
+    },
+    {
+        "name": "Flower forest",
+        "desc": "Find a flower forest biome"
+    },
+    {
+        "name": "Fort first",
+        "desc": "Plays the foretress as the first nether structure"
+    },
+    {
+        "name": "Free the end",
+        "desc": "Get the \"Free the End\" advancement"
+    },
+    {
+        "name": "Gets bridge backup blocks",
+        "desc": "Mines the backup gold blocks in a bridge bastion"
+    },
+    {
+        "name": "Ghost bucket",
+        "desc": "Contents of a bucket get desynced and the bucket item displays contents that differs from its actual contents"
+    },
+    {
+        "name": "Glowstone in bastion",
+        "desc": "Patch of glowstone inside a bastion"
+    },
+    {
+        "name": "Glowstone on blaze spawner",
+        "desc": "Patch of glowstone right by a blaze spawner, blocking spawning space"
+    },
+    {
+        "name": "Golden apple",
+        "desc": "Obtain a golden apple"
+    },
+    {
+        "name": "Golden carrot",
+        "desc": "Obtain a golden carrot"
+    },
+    {
+        "name": "Ground zero",
+        "desc": "Perform a ground zero to kill the dragon"
+    },
+    {
+        "name": "Half a heart",
+        "desc": "Be at half a heart of health"
+    },
+    {
+        "name": "Hit by wither skeleton",
+        "desc": "Get hit by a wither skeleton"
+    },
+    {
+        "name": "Hoe",
+        "desc": "Obtain a hoe of any material"
+    },
+    {
+        "name": "Hot tourist",
+        "desc": "Complete the \"Hot Tourist Destination\" advancement"
+    },
+    {
+        "name": "Housing bastion",
+        "desc": "Find a housing bastion"
+    },
+    {
+        "name": "Hunger reset",
+        "desc": "Intentionally die to reset health and hunger"
+    },
+    {
+        "name": "Iceberg",
+        "desc": "Find an iceberg biome"
+    },
+    {
+        "name": "Iron ore",
+        "desc": "Obtain iron ore"
+    },
+    {
+        "name": "Jukebox",
+        "desc": "Obtain a jukebox"
+    },
+    {
+        "name": "Jungle",
+        "desc": "Find a jungle biome"
+    },
+    {
+        "name": "Kills hoglin",
+        "desc": "Kill a hoglin"
+    },
+    {
+        "name": "Lava housing",
+        "desc": "Find a housing bastion with lava flowing inside it"
+    },
+    {
+        "name": "Lava on blaze spawner",
+        "desc": "Lava flows on a blaze spawner"
+    },
+    {
+        "name": "Leaves with less than 20 obby",
+        "desc": "Leaves the bastion with less than 20 obby"
+    },
+    {
+        "name": "Less than 6 iron from ship/bt",
+        "desc": "Ship or bt contain less than 6 iron"
+    },
+    {
+        "name": "Looting sword",
+        "desc": "Obtain a sword enchanted with looting"
+    },
+    {
+        "name": "Magma cube in fort",
+        "desc": "Find a magma cube in the fortress"
+    },
+    {
+        "name": "Magma ravine enter",
+        "desc": "Use a magma ravine to enter the nether"
+    },
+    {
+        "name": "Mansion",
+        "desc": "Find a woodland mansion"
+    },
+    {
+        "name": "Mega taiga",
+        "desc": "Find a mega taiga biome"
+    },
+    {
+        "name": "Mentions doogile",
+        "desc": "Couri mentions doogile"
+    },
+    {
+        "name": "Mentions feinberg",
+        "desc": "Couri mentions feinberg"
+    },
+    {
+        "name": "Mentions fulham",
+        "desc": "Couri mentions fulham"
+    },
+    {
+        "name": "Mentions poundy",
+        "desc": "Couri mentions poundy"
+    },
+    {
+        "name": "Mesa",
+        "desc": "Find a mesa biome"
+    },
+    {
+        "name": "Milk bucket",
+        "desc": "Obtain a milk bucket"
+    },
+    {
+        "name": "Mines bottom treasure gold",
+        "desc": "Mines the gold blocks in the bottom section of a treasure bastion"
+    },
+    {
+        "name": "Mineshaft",
+        "desc": "Find a mineshaft"
+    },
+    {
+        "name": "Mining fatigue",
+        "desc": "Have the mining fatigue effect"
+    },
+    {
+        "name": "Mining obby",
+        "desc": "Mine obsidian"
+    },
+    {
+        "name": "Misplace obby",
+        "desc": "Misplace obsidian"
+    },
+    {
+        "name": "Mob changes dimension",
+        "desc": "Mob goes through a portal to a different dimension"
+    },
+    {
+        "name": "Mountain",
+        "desc": "Find a mountain biome"
+    },
+    {
+        "name": "Mountain stronghold digdown",
+        "desc": "Dig down to the stronghold in a mountain biome"
+    },
+    {
+        "name": "Multiple bastions in one run",
+        "desc": "Trade multiple bastions in a single run"
+    },
+    {
+        "name": "Mushroom island",
+        "desc": "Find a mushroom island"
+    },
+    {
+        "name": "Netherite ingot",
+        "desc": "Obtain a netherite ingot"
+    },
+    {
+        "name": "Netherite tool/armor",
+        "desc": "Upgrade a diamond item to netherite"
+    },
+    {
+        "name": "Nether portal into stronghold",
+        "desc": "When exiting the nether, the overworld portal spawns inside the stronghold"
+    },
+    {
+        "name": "Nether wastes",
+        "desc": "Find a nether wastes biome"
+    },
+    {
+        "name": "No bow/crossbow in end",
+        "desc": "Be in the end without a bow or a crossbow"
+    },
+    {
+        "name": "Obtain large fern",
+        "desc": "Obtain a large fern"
+    },
+    {
+        "name": "Obtain trident",
+        "desc": "Obtain a trident"
+    },
+    {
+        "name": "Ocean",
+        "desc": "Find an ocean biome"
+    },
+    {
+        "name": "Ocean exposed portal room",
+        "desc": "Portal room is visible from the ocean surface"
+    },
+    {
+        "name": "Ocean monument",
+        "desc": "Find an ocean monument"
+    },
+    {
+        "name": "Ocean ruin",
+        "desc": "Find an ocean ruin"
+    },
+    {
+        "name": "Over 30 min run",
+        "desc": "Have a run with a final time 30 minutes or longer"
+    },
+    {
+        "name": "Overworld enderman",
+        "desc": "Find an enderman in the overworld"
+    },
+    {
+        "name": "Pausing to clutch",
+        "desc": "Pauses the game to figure out how to avoid dying"
+    },
+    {
+        "name": "Pearl hangs",
+        "desc": "Throws a pearl and unloads the chunks so it lands at a desired later time"
+    },
+    {
+        "name": "Pigstep",
+        "desc": "Obtain a pigstep disc"
+    },
+    {
+        "name": "Pillager outpost",
+        "desc": "Find a pillager outpost"
+    },
+    {
+        "name": "Poisoned",
+        "desc": "Have the poison effect"
+    },
+    {
+        "name": "Porkchops",
+        "desc": "Obtain porkchops (cooked or raw)"
+    },
+    {
+        "name": "Poundy portal",
+        "desc": "Mess up while building a nether portal"
+    },
+    {
+        "name": "Rain",
+        "desc": "It rains in the world"
+    },
+    {
+        "name": "Return to sender",
+        "desc": "Complete the \"Return to Sender\" advancement"
+    },
+    {
+        "name": "Reverse eye spy",
+        "desc": "While calculating the distance to the stronghold, throw two eyes and have them point to different strongholds"
+    },
+    {
+        "name": "Ruined portal",
+        "desc": "Find a ruined portal"
+    },
+    {
+        "name": "Savanna",
+        "desc": "Find a savanna biome"
+    },
+    {
+        "name": "Doogile watch this",
+        "desc": "Says \"doogile watch this\""
+    },
+    {
+        "name": "Figure it out",
+        "desc": "Says \"figure it out\""
+    },
+    {
+        "name": "hypothetically",
+        "desc": "Says \"hypothetically\""
+    },
+    {
+        "name": "I have bad news",
+        "desc": "Says \"I have bad news\""
+    },
+    {
+        "name": "I have nothing",
+        "desc": "Says \"I have nothing\""
+    },
+    {
+        "name": "Im just dead; lives",
+        "desc": "Says \"Im just dead\" then lives"
+    },
+    {
+        "name": "I see it",
+        "desc": "Says \"I see it\""
+    },
+    {
+        "name": "MODS",
+        "desc": "Says \"MODS\""
+    },
+    {
+        "name": "MOOOVE",
+        "desc": "Says \"MOOOVE\""
+    },
+    {
+        "name": "This game sucks",
+        "desc": "Says \"This game sucks\""
+    },
+    {
+        "name": "Who are YOU",
+        "desc": "Says \"Who are YOU\""
+    },
+    {
+        "name": "You have zero friends",
+        "desc": "Says \"you have zero friends\""
+    },
+    {
+        "name": "You're banned",
+        "desc": "Says \"You're banned\""
+    },
+    {
+        "name": "Set spawn in nether",
+        "desc": "Uses a respawn anchor to set a spawnpoint in the nether"
+    },
+    {
+        "name": "Shipwreck",
+        "desc": "Finds a shipwreck"
+    },
+    {
+        "name": "Slime",
+        "desc": "Finds a slime"
+    },
+    {
+        "name": "Spider jockey",
+        "desc": "Finds a spider jockey"
+    },
+    {
+        "name": "Spooky scary skeleton",
+        "desc": "Completes the \"Spooky Scary Skeleton\" advancement"
+    },
+    {
+        "name": "SSV",
+        "desc": "Finds a soul sand valley biome"
+    },
+    {
+        "name": "SSV fort",
+        "desc": "Finds a fortress in a soul sand valley"
+    },
+    {
+        "name": "Stables bastion",
+        "desc": "Finds a stables bastion"
+    },
+    {
+        "name": "Sub 20 min run",
+        "desc": "Completes a run with a final time of 20 minutes or less"
+    },
+    {
+        "name": "Subspace bubble",
+        "desc": "Completes the \"Subspace Bubble\" advancement"
+    },
+    {
+        "name": "Sunflower plains",
+        "desc": "Find a sunflower plains biome"
+    },
+    {
+        "name": "Surface lava enter",
+        "desc": "Uses a surface lava pool to enter the nether"
+    },
+    {
+        "name": "Suspicious stew",
+        "desc": "Obtains a suspicious stew"
+    },
+    {
+        "name": "Swamp",
+        "desc": "Finds a swamp biome"
+    },
+    {
+        "name": "Taiga",
+        "desc": "Finds a taiga biome"
+    },
+    {
+        "name": "Thunder",
+        "desc": "It thunders in the world"
+    },
+    {
+        "name": "Treasure bastion",
+        "desc": "Find a treasure bastion"
+    },
+    {
+        "name": "Tree on blaze spawner",
+        "desc": "Have a tree at the blaze spawner"
+    },
+    {
+        "name": "Trident guy",
+        "desc": "Find a drowned holding a trident"
+    },
+    {
+        "name": "Tundra",
+        "desc": "Find a tundra biome"
+    },
+    {
+        "name": "Unplanned death",
+        "desc": "Dies unintentionally"
+    },
+    {
+        "name": "Uses pickaxe as weapon",
+        "desc": "Use a pickaxe as a weapon"
+    },
+    {
+        "name": "Village",
+        "desc": "Finds a village"
+    },
+    {
+        "name": "Warped forest",
+        "desc": "Finds a warped forest biome"
+    },
+    {
+        "name": "Wears golden pants",
+        "desc": "Obtains and wears a pair of golden pants"
+    },
+    {
+        "name": "Witch",
+        "desc": "Finds a witch"
+    },
+    {
+        "name": "Woodlight",
+        "desc": "Lights a nether portal by having wood catch on fire and spread into the portal"
+    },
+    {
+        "name": "Zombie piglin aggroed",
+        "desc": "Makes a zombie piglin angry"
+    },
+    {
+        "name": "Zombie villager",
+        "desc": "Find a zombie villager"
+    }
+]
