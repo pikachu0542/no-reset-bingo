@@ -57,7 +57,7 @@ module.exports.requiresLogin = requiresLogin;
 module.exports.requiresLogout = requiresLogout;
 
 
-if (process.env.NODE_ENV === 'production') {
+if (process.env.PROD) {
     module.exports.requiresSecure = requiresSecure;
 }
 else {
