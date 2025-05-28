@@ -1,10 +1,14 @@
 {
   "name": "no-reset-bingo",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./server/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "webpack": "webpack",
+    "webpackWatch": "webpack watch",
+    "nodemon": "nodemon -e js,jsx,html,css --watch ./server --watch ./hosted ./server/app.js",
+    "start": "node ./server/app.js",
+    "pretest": "eslint ./server --fix",
+    "test": "echo \"Tests complete\""
   },
   "keywords": [
     "minecraft",
